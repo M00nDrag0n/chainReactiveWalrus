@@ -1,0 +1,49 @@
+body {
+  font-family: 'Spectral';
+  font-size: 19px;
+  text-align: center;
+}
+
+
+.img-size img {
+  height: 400px;
+  width: 650px;
+}
+
+.img-size h1 {
+  margin-top: 100px;
+}
+
+#img-1 {
+  display: none;
+}
+
+#img-2 {
+  display: none;
+}
+
+#text-1 {
+  display: none;
+}
+
+#text-2 {
+  display: none;
+}
+#text-3 {
+  display: none;
+}
+
+#Shrek {
+  display: none;
+}
+
+#Shrek img {
+  height: 120%;
+  width: 105%;
+
+}
+
+.imitation-link {
+  color: #0080ff;
+  text-decoration: underline;
+}
