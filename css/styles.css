@@ -33,8 +33,20 @@ body {
   display: none;
 }
 
+#text-4 {
+  font-family: 'Spectral';
+  font-size: 50px;
+  margin-top: 100px;
+  border-width: thick;
+  border-style: solid;
+  border-color: black;
+  background-color: white;
+
+}
+
 #Shrek {
   display: none;
+  background-color: #693008;
 }
 
 #Shrek img {
