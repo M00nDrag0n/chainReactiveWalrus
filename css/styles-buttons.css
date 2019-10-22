@@ -1,0 +1,36 @@
+body {
+  font-family: 'Spectral';
+  font-size: 19px;
+}
+
+.white-background {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.black-background {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.blue-background {
+  background-color: #0086c9;
+  color:  #000000;
+}
+
+.shiny-background{
+  background-color: #0096e0;
+  color: #94ebff;
+}
+
+.winter-background{
+  background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/qKKjDnx/videoblocks-sunset-over-the-okshornan-mountain-range-at-the-island-of-senja-in-northern-norway-at-the-end-of-beautiful-day-in-winter_rzdpceptl_thumbnail-full01.png") ;
+}
+
+.nocturnal-background{
+  background-image: url("https://sofiagoubliasofficial.files.wordpress.com/2014/02/moonbird.jpg");
+}
+
+#active {
+  display: none;
+}
