@@ -28,4 +28,23 @@ $(document).ready(function() {
           $("body").addClass("shiny-background");
     });
   });
+
+  $("button#green").click(function() {
+    $("body").removeClass();
+    $("body").addClass("green-background");
+     $("#active").toggle();
+     });
+
+     $("button#purple").click(function() {
+       $("body").removeClass();
+       $("body").addClass("purple-background");
+       $("#active").toggle();
+       $("#active").click(function() {
+         $("#active").addClass("green-background");
+     });
+
+
+});
+
+
 });

@@ -37,6 +37,26 @@ body {
   color: #94ebff;
 }
 
+.green-background {
+  color: #31d660;
+  background-color: #1f543a;
+}
+
+#green {
+  color: #31d660;
+  background-color: #1f543a;
+  }
+
+.purple-background {
+  color: #351436;
+  background-color: #ba2cbf;
+}
+
+#purple{
+  color: #351436;
+  background-color: #ba2cbf;
+}
+
 #active {
   display: none;
 }
