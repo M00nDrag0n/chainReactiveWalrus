@@ -10,11 +10,10 @@ _This is a webpage that uses CSS and Javascript to show and hide different color
 
 ## Setup/Installation Requirements
 
-* _Use Github to clone this repository, or use this link [ https://m00ndrag0n.github.io/my-weird-little-page/ ] to access the global version._
+* _Use Github to clone this repository, or use this link [ https://m00ndrag0n.github.io/chainReactiveWalrus/index-buttons.html ] to access the global version of the CSS Buttons project._
+* _To access the global version of the Walrus project, use this link [ https://m00ndrag0n.github.io/chainReactiveWalrus/ ]_
 * _Open the repository in your browser_
-* _read my content_
-* _be amazed at my CSS_
-* _go find something else to do_
+* _Click around and experiment!_
 
 _No additional servers needed_
 
